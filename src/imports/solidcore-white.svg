@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100" width="160" height="100">
+  <rect width="160" height="100" rx="4" fill="#ffffff" stroke="#cccccc" stroke-width="1"/>
+  <text x="12" y="52" font-family="Inter, Arial Black, sans-serif" font-weight="900" font-size="36" fill="#ffffff" stroke="#333333" stroke-width="0.5" letter-spacing="-1">soli</text>
+  <text x="12" y="88" font-family="Inter, Arial Black, sans-serif" font-weight="900" font-size="36" fill="#ffffff" stroke="#333333" stroke-width="0.5" letter-spacing="-1">dcore</text>
+</svg>
