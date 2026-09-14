@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 60" width="260" height="60">
+  <rect x="2" y="8" width="44" height="44" rx="8" fill="#1F3A5F"/>
+  <text x="24" y="38" text-anchor="middle" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="800" font-size="18" fill="#fff">ВТС</text>
+  <text x="56" y="28" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="700" font-size="15" fill="#1F3A5F">ВостокТехноСервис</text>
+  <text x="56" y="47" font-family="Inter, Arial, Helvetica, sans-serif" font-size="12" fill="#5B6B7F">Научно-Технический Центр</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" width="320" height="80">
+  <rect x="2" y="10" width="60" height="60" rx="14" fill="#F05A22"/>
+  <path d="M18 28 l10 26 l6 -16 l6 16 l10 -26" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="76" y="52" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="800" font-size="34" fill="#111" letter-spacing="-1">Work Helper</text>
+</svg>
