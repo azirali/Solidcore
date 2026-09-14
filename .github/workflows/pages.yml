@@ -30,11 +30,7 @@ jobs:
       - run: pnpm build
         env:
           GITHUB_PAGES: "1"
-      # Creates the Pages site on first run (Settings → Pages → Source: GitHub Actions)
-      - uses: actions/configure-pages@v5
-        with:
-          enablement: true
-
+      # One-time: Settings → Pages → Build and deployment → Source: "GitHub Actions"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
