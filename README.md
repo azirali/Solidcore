@@ -1,8 +1,8 @@
 # Solidcore
 
 <p align="center">
-  <a href="https://github.com/shutovBro/Solidcore/actions/workflows/pages.yml"><img src="https://github.com/shutovBro/Solidcore/actions/workflows/pages.yml/badge.svg?branch=main" alt="Deploy"></a>
-  <a href="https://github.com/shutovBro/Solidcore/actions/workflows/ci.yml"><img src="https://github.com/shutovBro/Solidcore/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
+  <a href="https://github.com/azirali/Solidcore/actions/workflows/pages.yml"><img src="https://github.com/azirali/Solidcore/actions/workflows/pages.yml/badge.svg?branch=main" alt="Deploy"></a>
+  <a href="https://github.com/azirali/Solidcore/actions/workflows/ci.yml"><img src="https://github.com/azirali/Solidcore/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black" alt="React 18">
   <img src="https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white" alt="Vite 6">
   <img src="https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind 4">
@@ -12,7 +12,7 @@ Enterprise workflow & employee-enablement web app: onboarding documents, trainin
 materials, knowledge tests and team mood analytics — with separate **employee** and
 **admin** workspaces.
 
-**Live demo:** https://shutovbro.github.io/Solidcore/ — pick a role on the login
+**Live demo:** https://azirali.github.io/Solidcore/ — pick a role on the login
 screen (any phone number / code works, the data is mocked).
 
 ## Features
